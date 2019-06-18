@@ -1,7 +1,7 @@
 # WCF DevOps Homework
 
 ## Overview
-Your mission, should you choose to accept it, is deploy and scale two applications (Web API and Data API) to incoming requests.
+Your mission, should you choose to accept it, is deploy and scale two applications (Web API and Auth API) to incoming requests.
 
 ## Tasks
 
