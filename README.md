@@ -21,6 +21,20 @@ Have the following ready to share with folks:
 
 For your work, DO NOT fork this repo!  Create a new repo using public Github or Gitlab account, use a unique name and send us the final product!
 
+## FAQ
+
+*Is this a local or non-local cluster?*
+
+Either one will do, completely your choice.  Some candidates decide to do a more local build out using an orhcestration solution running on their laptops, while others prefer to use a cloud provider.
+
+*Is there a cloud account I'm supposed to deploy to?*
+
+No... if you choose to build on a specific cloud, that is perfectly fine, but we do not have any dedicated accounts for you to use.  We'd recommend you minimize spend if you go with this option, this exercise should fit neatly into free tier offerings.
+
+*How should I document things?*
+
+Screen caps/recordings are a viable option to document or demo something.  What we are really looking to see is the thought process and how you go about coming up with a solution.  Or you could use Markdown or Asciidoctor inside your repo.  Whatever it happens to be, we're looking for you to do a show and tell during any follow up conversations.
+
 
 ## Notes
 
