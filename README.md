@@ -25,7 +25,7 @@ For your work, DO NOT fork this repo!  Create a new repo using public Github or 
 
 *Is this a local or non-local cluster?*
 
-Either one will do, completely your choice.  Some candidates decide to do a more local build out using an orhcestration solution running on their laptops, while others prefer to use a cloud provider.
+Either one will do, completely your choice.  Some candidates decide to do a more local build out using an orchestration solution running on their laptops, while others prefer to use a cloud provider.
 
 *Is there a cloud account I'm supposed to deploy to?*
 
